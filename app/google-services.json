@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144285281664",
+    "project_id": "ejer02-loginlistacompra",
+    "storage_bucket": "ejer02-loginlistacompra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144285281664:android:14bb2932c0f07a9dca2565",
+        "android_client_info": {
+          "package_name": "pablo.conejos.chirivella.ejer02_loginlistacompra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144285281664-igu7i74ith44nlgqq9i05a8832lr5nen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCz0EbHdzDivQcQdBUaNyOdPyOENDzbBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144285281664-igu7i74ith44nlgqq9i05a8832lr5nen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
